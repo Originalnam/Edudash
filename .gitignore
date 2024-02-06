@@ -1,0 +1,9 @@
+# data (available at https://analyse.kmi.open.ac.uk/open_dataset)
+data/
+
+# virtual environment
+venv/
+
+# IDE settings
+.idea/
+.vscode/
